@@ -1,0 +1,3 @@
+- [Project Overview](memory/project-overview.md) — Animal detection YOLO project: key metrics, training stages, requirements status
+- [Deliverable Conventions](memory/deliverable-conventions.md) — PPT/report MUST be single-language, output to 项目要求/报告/
+- [File Organization](memory/file-organization.md) — Where deliverables, scripts, and key paths live
