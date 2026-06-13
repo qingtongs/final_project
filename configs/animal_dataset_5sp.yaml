@@ -1,0 +1,13 @@
+# YOLO dataset config generated from datasets/animal_dataset_5sp_v1
+path: E:/final_project/animal_detection_project/dataset/animal_dataset_5sp_yolo
+train: images/train
+val: images/val
+test: images/val
+
+nc: 5
+names:
+  0: wolf
+  1: goose
+  2: horse
+  3: cow
+  4: monkey

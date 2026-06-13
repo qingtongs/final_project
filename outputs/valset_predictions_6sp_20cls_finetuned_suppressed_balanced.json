@@ -1,0 +1,87 @@
+{
+  "eval_001384": {
+    "zebra": 1,
+    "sheep": 2,
+    "rabbit": 1
+  },
+  "eval_001388": {
+    "goose": 2,
+    "cat": 1,
+    "wolf": 2,
+    "zebra": 1,
+    "deer": 2
+  },
+  "eval_001391": {
+    "cow": 2,
+    "pig": 1,
+    "goat": 1
+  },
+  "eval_001402": {
+    "cow": 1,
+    "sheep": 2,
+    "giraffe": 2,
+    "horse": 3,
+    "cat": 1
+  },
+  "eval_001431": {
+    "horse": 1,
+    "chicken": 2,
+    "deer": 4
+  },
+  "val_1": {
+    "lion": 2,
+    "cat": 1,
+    "goose": 2
+  },
+  "val_10": {
+    "goose": 1,
+    "monkey": 2,
+    "pig": 1
+  },
+  "val_2": {
+    "lion": 3,
+    "goose": 1,
+    "cat": 2
+  },
+  "val_3": {
+    "goose": 2,
+    "dog": 1,
+    "bear": 1,
+    "wolf": 1
+  },
+  "val_4": {
+    "lion": 1,
+    "zebra": 2,
+    "bear": 1
+  },
+  "val_5": {
+    "horse": 1,
+    "tiger": 2,
+    "cat": 1,
+    "bear": 1,
+    "dog": 1
+  },
+  "val_6": {
+    "horse": 2,
+    "fox": 1,
+    "tiger": 2
+  },
+  "val_7": {
+    "cow": 2,
+    "horse": 2,
+    "goose": 1,
+    "pig": 1,
+    "tiger": 2
+  },
+  "val_8": {
+    "horse": 1,
+    "pig": 2,
+    "fox": 1,
+    "zebra": 1
+  },
+  "val_9": {
+    "bear": 3,
+    "rabbit": 1,
+    "goose": 1
+  }
+}

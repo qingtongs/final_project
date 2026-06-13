@@ -1,0 +1,967 @@
+{
+  "eval_001384": [
+    {
+      "class_id": 18,
+      "class_name": "zebra",
+      "confidence": 0.854686,
+      "bbox_xyxy": [
+        20,
+        252,
+        588,
+        616
+      ]
+    },
+    {
+      "class_id": 4,
+      "class_name": "sheep",
+      "confidence": 0.800829,
+      "bbox_xyxy": [
+        477,
+        453,
+        707,
+        719
+      ]
+    },
+    {
+      "class_id": 4,
+      "class_name": "sheep",
+      "confidence": 0.792852,
+      "bbox_xyxy": [
+        630,
+        487,
+        1024,
+        920
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "rabbit",
+      "confidence": 0.475518,
+      "bbox_xyxy": [
+        175,
+        613,
+        385,
+        860
+      ]
+    }
+  ],
+  "eval_001388": [
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.947633,
+      "bbox_xyxy": [
+        719,
+        601,
+        972,
+        806
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.929333,
+      "bbox_xyxy": [
+        426,
+        592,
+        617,
+        763
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "cat",
+      "confidence": 0.877085,
+      "bbox_xyxy": [
+        176,
+        659,
+        401,
+        798
+      ]
+    },
+    {
+      "class_id": 14,
+      "class_name": "wolf",
+      "confidence": 0.873991,
+      "bbox_xyxy": [
+        568,
+        473,
+        727,
+        737
+      ]
+    },
+    {
+      "class_id": 18,
+      "class_name": "zebra",
+      "confidence": 0.856132,
+      "bbox_xyxy": [
+        672,
+        368,
+        1016,
+        678
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "deer",
+      "confidence": 0.821838,
+      "bbox_xyxy": [
+        48,
+        362,
+        278,
+        696
+      ]
+    },
+    {
+      "class_id": 14,
+      "class_name": "wolf",
+      "confidence": 0.731462,
+      "bbox_xyxy": [
+        353,
+        484,
+        582,
+        716
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "deer",
+      "confidence": 0.703894,
+      "bbox_xyxy": [
+        229,
+        363,
+        396,
+        654
+      ]
+    }
+  ],
+  "eval_001391": [
+    {
+      "class_id": 3,
+      "class_name": "cow",
+      "confidence": 0.979494,
+      "bbox_xyxy": [
+        460,
+        253,
+        761,
+        744
+      ]
+    },
+    {
+      "class_id": 3,
+      "class_name": "cow",
+      "confidence": 0.879691,
+      "bbox_xyxy": [
+        233,
+        280,
+        508,
+        586
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "pig",
+      "confidence": 0.875686,
+      "bbox_xyxy": [
+        0,
+        453,
+        442,
+        803
+      ]
+    },
+    {
+      "class_id": 5,
+      "class_name": "goat",
+      "confidence": 0.354473,
+      "bbox_xyxy": [
+        698,
+        399,
+        1024,
+        784
+      ]
+    }
+  ],
+  "eval_001402": [
+    {
+      "class_id": 3,
+      "class_name": "cow",
+      "confidence": 0.986187,
+      "bbox_xyxy": [
+        565,
+        418,
+        953,
+        794
+      ]
+    },
+    {
+      "class_id": 4,
+      "class_name": "sheep",
+      "confidence": 0.892102,
+      "bbox_xyxy": [
+        259,
+        659,
+        495,
+        872
+      ]
+    },
+    {
+      "class_id": 19,
+      "class_name": "giraffe",
+      "confidence": 0.874212,
+      "bbox_xyxy": [
+        311,
+        193,
+        675,
+        714
+      ]
+    },
+    {
+      "class_id": 19,
+      "class_name": "giraffe",
+      "confidence": 0.867415,
+      "bbox_xyxy": [
+        29,
+        197,
+        398,
+        674
+      ]
+    },
+    {
+      "class_id": 4,
+      "class_name": "sheep",
+      "confidence": 0.860578,
+      "bbox_xyxy": [
+        105,
+        596,
+        346,
+        847
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.84391,
+      "bbox_xyxy": [
+        0,
+        813,
+        171,
+        1024
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.70618,
+      "bbox_xyxy": [
+        862,
+        804,
+        1024,
+        1024
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.576806,
+      "bbox_xyxy": [
+        871,
+        0,
+        1024,
+        183
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "cat",
+      "confidence": 0.471966,
+      "bbox_xyxy": [
+        503,
+        728,
+        665,
+        834
+      ]
+    }
+  ],
+  "eval_001431": [
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.923111,
+      "bbox_xyxy": [
+        79,
+        67,
+        764,
+        505
+      ]
+    },
+    {
+      "class_id": 8,
+      "class_name": "chicken",
+      "confidence": 0.916615,
+      "bbox_xyxy": [
+        706,
+        695,
+        882,
+        932
+      ]
+    },
+    {
+      "class_id": 8,
+      "class_name": "chicken",
+      "confidence": 0.85299,
+      "bbox_xyxy": [
+        61,
+        694,
+        269,
+        926
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "deer",
+      "confidence": 0.764624,
+      "bbox_xyxy": [
+        692,
+        316,
+        995,
+        780
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "deer",
+      "confidence": 0.731185,
+      "bbox_xyxy": [
+        49,
+        418,
+        313,
+        650
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "deer",
+      "confidence": 0.650841,
+      "bbox_xyxy": [
+        448,
+        426,
+        743,
+        891
+      ]
+    },
+    {
+      "class_id": 11,
+      "class_name": "deer",
+      "confidence": 0.634421,
+      "bbox_xyxy": [
+        155,
+        457,
+        516,
+        915
+      ]
+    }
+  ],
+  "val_1": [
+    {
+      "class_id": 17,
+      "class_name": "lion",
+      "confidence": 0.929687,
+      "bbox_xyxy": [
+        327,
+        295,
+        701,
+        900
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "cat",
+      "confidence": 0.925059,
+      "bbox_xyxy": [
+        745,
+        690,
+        985,
+        955
+      ]
+    },
+    {
+      "class_id": 17,
+      "class_name": "lion",
+      "confidence": 0.920815,
+      "bbox_xyxy": [
+        608,
+        340,
+        926,
+        890
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.911579,
+      "bbox_xyxy": [
+        29,
+        666,
+        314,
+        982
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.808864,
+      "bbox_xyxy": [
+        29,
+        625,
+        201,
+        846
+      ]
+    }
+  ],
+  "val_10": [
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.929216,
+      "bbox_xyxy": [
+        753,
+        487,
+        971,
+        685
+      ]
+    },
+    {
+      "class_id": 12,
+      "class_name": "monkey",
+      "confidence": 0.898718,
+      "bbox_xyxy": [
+        562,
+        453,
+        696,
+        657
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "pig",
+      "confidence": 0.815293,
+      "bbox_xyxy": [
+        23,
+        296,
+        421,
+        691
+      ]
+    },
+    {
+      "class_id": 12,
+      "class_name": "monkey",
+      "confidence": 0.797266,
+      "bbox_xyxy": [
+        442,
+        411,
+        595,
+        647
+      ]
+    }
+  ],
+  "val_2": [
+    {
+      "class_id": 17,
+      "class_name": "lion",
+      "confidence": 0.911275,
+      "bbox_xyxy": [
+        70,
+        290,
+        372,
+        830
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.868484,
+      "bbox_xyxy": [
+        433,
+        812,
+        689,
+        1024
+      ]
+    },
+    {
+      "class_id": 17,
+      "class_name": "lion",
+      "confidence": 0.860165,
+      "bbox_xyxy": [
+        363,
+        277,
+        668,
+        809
+      ]
+    },
+    {
+      "class_id": 17,
+      "class_name": "lion",
+      "confidence": 0.856429,
+      "bbox_xyxy": [
+        630,
+        264,
+        931,
+        831
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "cat",
+      "confidence": 0.845896,
+      "bbox_xyxy": [
+        321,
+        652,
+        465,
+        831
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "cat",
+      "confidence": 0.704608,
+      "bbox_xyxy": [
+        576,
+        645,
+        689,
+        823
+      ]
+    }
+  ],
+  "val_3": [
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.94181,
+      "bbox_xyxy": [
+        740,
+        564,
+        1024,
+        969
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "dog",
+      "confidence": 0.93993,
+      "bbox_xyxy": [
+        363,
+        524,
+        553,
+        856
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.884903,
+      "bbox_xyxy": [
+        536,
+        603,
+        786,
+        890
+      ]
+    },
+    {
+      "class_id": 15,
+      "class_name": "bear",
+      "confidence": 0.751033,
+      "bbox_xyxy": [
+        55,
+        314,
+        406,
+        816
+      ]
+    },
+    {
+      "class_id": 14,
+      "class_name": "wolf",
+      "confidence": 0.419856,
+      "bbox_xyxy": [
+        524,
+        435,
+        786,
+        886
+      ]
+    }
+  ],
+  "val_4": [
+    {
+      "class_id": 17,
+      "class_name": "lion",
+      "confidence": 0.942216,
+      "bbox_xyxy": [
+        724,
+        404,
+        989,
+        825
+      ]
+    },
+    {
+      "class_id": 18,
+      "class_name": "zebra",
+      "confidence": 0.928956,
+      "bbox_xyxy": [
+        596,
+        361,
+        793,
+        805
+      ]
+    },
+    {
+      "class_id": 18,
+      "class_name": "zebra",
+      "confidence": 0.875031,
+      "bbox_xyxy": [
+        407,
+        366,
+        656,
+        809
+      ]
+    },
+    {
+      "class_id": 15,
+      "class_name": "bear",
+      "confidence": 0.61057,
+      "bbox_xyxy": [
+        27,
+        400,
+        409,
+        855
+      ]
+    }
+  ],
+  "val_5": [
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.952453,
+      "bbox_xyxy": [
+        135,
+        64,
+        510,
+        777
+      ]
+    },
+    {
+      "class_id": 16,
+      "class_name": "tiger",
+      "confidence": 0.891086,
+      "bbox_xyxy": [
+        503,
+        736,
+        758,
+        977
+      ]
+    },
+    {
+      "class_id": 0,
+      "class_name": "cat",
+      "confidence": 0.890262,
+      "bbox_xyxy": [
+        319,
+        737,
+        462,
+        939
+      ]
+    },
+    {
+      "class_id": 15,
+      "class_name": "bear",
+      "confidence": 0.779601,
+      "bbox_xyxy": [
+        576,
+        233,
+        1024,
+        801
+      ]
+    },
+    {
+      "class_id": 1,
+      "class_name": "dog",
+      "confidence": 0.738106,
+      "bbox_xyxy": [
+        0,
+        492,
+        297,
+        900
+      ]
+    },
+    {
+      "class_id": 16,
+      "class_name": "tiger",
+      "confidence": 0.589686,
+      "bbox_xyxy": [
+        396,
+        471,
+        655,
+        891
+      ]
+    }
+  ],
+  "val_6": [
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.924113,
+      "bbox_xyxy": [
+        559,
+        296,
+        955,
+        644
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.91837,
+      "bbox_xyxy": [
+        125,
+        222,
+        554,
+        528
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "fox",
+      "confidence": 0.90216,
+      "bbox_xyxy": [
+        615,
+        597,
+        991,
+        925
+      ]
+    },
+    {
+      "class_id": 16,
+      "class_name": "tiger",
+      "confidence": 0.854964,
+      "bbox_xyxy": [
+        391,
+        503,
+        627,
+        880
+      ]
+    },
+    {
+      "class_id": 16,
+      "class_name": "tiger",
+      "confidence": 0.836223,
+      "bbox_xyxy": [
+        29,
+        472,
+        442,
+        893
+      ]
+    }
+  ],
+  "val_7": [
+    {
+      "class_id": 3,
+      "class_name": "cow",
+      "confidence": 0.986194,
+      "bbox_xyxy": [
+        48,
+        361,
+        347,
+        671
+      ]
+    },
+    {
+      "class_id": 3,
+      "class_name": "cow",
+      "confidence": 0.976702,
+      "bbox_xyxy": [
+        253,
+        359,
+        525,
+        823
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.93918,
+      "bbox_xyxy": [
+        635,
+        242,
+        996,
+        620
+      ]
+    },
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.939125,
+      "bbox_xyxy": [
+        460,
+        299,
+        703,
+        793
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.913576,
+      "bbox_xyxy": [
+        399,
+        597,
+        591,
+        902
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "pig",
+      "confidence": 0.911288,
+      "bbox_xyxy": [
+        9,
+        615,
+        321,
+        881
+      ]
+    },
+    {
+      "class_id": 16,
+      "class_name": "tiger",
+      "confidence": 0.755891,
+      "bbox_xyxy": [
+        881,
+        571,
+        1024,
+        890
+      ]
+    },
+    {
+      "class_id": 16,
+      "class_name": "tiger",
+      "confidence": 0.539211,
+      "bbox_xyxy": [
+        600,
+        572,
+        994,
+        975
+      ]
+    }
+  ],
+  "val_8": [
+    {
+      "class_id": 2,
+      "class_name": "horse",
+      "confidence": 0.936287,
+      "bbox_xyxy": [
+        45,
+        126,
+        673,
+        659
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "pig",
+      "confidence": 0.8213,
+      "bbox_xyxy": [
+        353,
+        629,
+        612,
+        901
+      ]
+    },
+    {
+      "class_id": 6,
+      "class_name": "pig",
+      "confidence": 0.785206,
+      "bbox_xyxy": [
+        545,
+        643,
+        820,
+        913
+      ]
+    },
+    {
+      "class_id": 13,
+      "class_name": "fox",
+      "confidence": 0.743404,
+      "bbox_xyxy": [
+        69,
+        585,
+        414,
+        911
+      ]
+    },
+    {
+      "class_id": 18,
+      "class_name": "zebra",
+      "confidence": 0.743265,
+      "bbox_xyxy": [
+        571,
+        248,
+        975,
+        709
+      ]
+    }
+  ],
+  "val_9": [
+    {
+      "class_id": 15,
+      "class_name": "bear",
+      "confidence": 0.921473,
+      "bbox_xyxy": [
+        669,
+        375,
+        919,
+        664
+      ]
+    },
+    {
+      "class_id": 7,
+      "class_name": "rabbit",
+      "confidence": 0.912523,
+      "bbox_xyxy": [
+        784,
+        584,
+        933,
+        768
+      ]
+    },
+    {
+      "class_id": 15,
+      "class_name": "bear",
+      "confidence": 0.88353,
+      "bbox_xyxy": [
+        389,
+        356,
+        647,
+        652
+      ]
+    },
+    {
+      "class_id": 15,
+      "class_name": "bear",
+      "confidence": 0.881493,
+      "bbox_xyxy": [
+        98,
+        362,
+        361,
+        660
+      ]
+    },
+    {
+      "class_id": 10,
+      "class_name": "goose",
+      "confidence": 0.518039,
+      "bbox_xyxy": [
+        105,
+        612,
+        366,
+        765
+      ]
+    }
+  ]
+}

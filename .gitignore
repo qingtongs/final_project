@@ -1,0 +1,33 @@
+# Python / runtime
+__pycache__/
+*.py[cod]
+.venv/
+.venv_cuda/
+.torch/
+ultralytics_config/
+
+# Local caches and logs
+.pytest_cache/
+.mypy_cache/
+*.log
+outputs/logs/
+
+# Data folders are large and should be supplied separately if needed
+dataset/
+datasets/
+val_set/
+real_valset/
+
+# Training outputs are large. Commit only selected final artifacts explicitly.
+runs/
+outputs/
+
+# Model weights are binary. The final best model is added explicitly with git add -f.
+*.pt
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
